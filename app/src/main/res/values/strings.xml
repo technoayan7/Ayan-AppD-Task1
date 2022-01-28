@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ayan AppD-Task1</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="enter_roll_number">Enter Roll Number</string>
+    <string name="submit">Submit</string>
+</resources>
